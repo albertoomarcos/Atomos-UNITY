@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Sodio22" size="5.000000 15.081967" />
+    <ImageTarget name="Sodio2" size="10.000000 7.540984" />
+    <ImageTarget name="cloro22" size="10.000000 7.540984" />
+    <ImageTarget name="Cloro2" size="5.000000 15.081967" />
+    <ImageTarget name="carbono22" size="10.000000 7.540984" />
+    <ImageTarget name="Carbono2" size="5.000000 15.081967" />
+    <ImageTarget name="H22" size="10.000000 7.540984" />
+    <ImageTarget name="O22" size="5.000000 15.081967" />
+    <ImageTarget name="O2" size="10.000000 7.540984" />
+    <ImageTarget name="H4" size="15.000000 21.978609" />
+    <ImageTarget name="H2" size="5.000000 15.081967" />
+    <ImageTarget name="Nitrogeno2-2" size="5.000000 15.081967" />
+    <ImageTarget name="Nitrogeno2" size="10.000000 7.580645" />
+    <ImageTarget name="carbono" size="5.000000 7.540984" />
+    <ImageTarget name="hidrogeno" size="5.000000 7.540984" />
+    <ImageTarget name="sodio" size="5.000000 7.540984" />
+    <ImageTarget name="oxigeno" size="5.000000 7.540984" />
+    <ImageTarget name="nitrogeno" size="5.000000 7.540984" />
+    <ImageTarget name="cloro" size="5.000000 7.540984" />
+  </Tracking>
+</QCARConfig>
