@@ -252,8 +252,8 @@ TextMesh:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 109347909}
-  m_Text: "Info: Carbono, 6 protones, 6 neutrones, \n6 electrones, Peso atomico: 12,0107
-    u"
+  m_Text: "Nombre: Di\xF3xido de Carbono, CO2, Estado F\xEDsico: Gaseoso \r\nCaracter\xEDsticas:
+    TODO"
   m_OffsetZ: 0
   m_CharacterSize: 1
   m_LineSpacing: 1
@@ -2263,7 +2263,8 @@ TextMesh:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 769489681}
-  m_Text: Esto es un texto de prueba de una molecula
+  m_Text: "Nombre: Amon\xEDaco, NH3, Estado F\uFCE9\xEDsico: Gaseoso \nCaracter\xEDsticas:
+    TODO"
   m_OffsetZ: 0
   m_CharacterSize: 1
   m_LineSpacing: 1
@@ -2615,8 +2616,7 @@ TextMesh:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 863321833}
-  m_Text: "Info: Oxigeno, 8 protones, 8 neutrones, \n8 electrones, Peso atomico: 15,999
-    u"
+  m_Text: "Nombre: Agua, H20, Estado F\xEDsico: L\xEDquido \nCaracter\xEDsticas: TODO"
   m_OffsetZ: 0
   m_CharacterSize: 1
   m_LineSpacing: 1
@@ -2899,8 +2899,8 @@ TextMesh:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1018298510}
-  m_Text: "Info: Hidrogeno, 1 protones, 0 neutrones, \n1 electrones, Peso atomico:
-    1,00784 u"
+  m_Text: "Nombre: Metano, CH4, Estado F\xEDsico: Gaseoso \r\nCaracter\xEDsticas:
+    TODO"
   m_OffsetZ: 0
   m_CharacterSize: 1
   m_LineSpacing: 1
@@ -3429,8 +3429,8 @@ TextMesh:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1300698462}
-  m_Text: "Info: Sodio, 11 protones, 12 neutrones, \n11 electrones, Peso atomico:
-    22,989769 u"
+  m_Text: "Nombre: Sal Com\xFAn, NaCl, Estado F\xEDsico: S\xF3lido \r\nCaracter\xEDsticas:
+    TODO"
   m_OffsetZ: 0
   m_CharacterSize: 1
   m_LineSpacing: 1
