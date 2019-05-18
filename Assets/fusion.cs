@@ -22,8 +22,6 @@ public class fusion : MonoBehaviour
 
 		if(dist < 8f)
 		{
-			elemento1.SetActive (false);
-			elemento2.SetActive (false);
 			molecula.SetActive (true);
 		}
 		else
