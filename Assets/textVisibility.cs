@@ -21,5 +21,10 @@ public class textVisibility : MonoBehaviour
     		activate = !activate;
     		myobject.SetActive (activate);
     	}
+	if (Input.touchCount > 0)
+	{
+	    	activate = !activate;
+    		myobject.SetActive (activate);
+	}
     }
 }
