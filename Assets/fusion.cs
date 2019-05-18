@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class TextV : MonoBehaviour
+public class fusion : MonoBehaviour
 {
 	public GameObject elemento1;
 	public GameObject elemento2;
